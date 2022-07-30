@@ -1,5 +1,5 @@
 <h1>
-  hey there
+  <center>Hey there</center>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -23,7 +23,7 @@
 
 I am an AI-ML enthusiast from India.
 
-<img><iframe src="https://giphy.com/embed/l4pTsNgkamxfk2ZLq" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/therundownbet-funny-comedy-l4pTsNgkamxfk2ZLq">via GIPHY</a></p><img>
+<img src="https://giphy.com/embed/l4pTsNgkamxfk2ZLq" width="480" height="264" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/therundownbet-funny-comedy-l4pTsNgkamxfk2ZLq"/>via GIPHY</a></p>
 
 - :telescope: I’m a senior at Symbiosis Institute of Technology, Pune.
 
